@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fruit_shop/home_page.dart';
+// import 'package:fruit_shop/home_page.dart';
 import 'package:fruit_shop/splash_screen.dart';
 // import 'package:fru
 

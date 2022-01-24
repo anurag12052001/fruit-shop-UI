@@ -1,6 +1,6 @@
-analyzer:
-      errors:
-        undefined_prefixed_name: ignore,
+# analyzer:
+#       errors:
+#         undefined_prefixed_name: ignore,
         
         
 
